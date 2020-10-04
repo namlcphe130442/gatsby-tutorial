@@ -14,8 +14,17 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "babel-plugin-prismjs": "^2.0.1",
+    "babel-preset-gatsby": "^0.5.12",
     "gatsby": "^2.24.66",
-    "react": "^16.12.0",
+    "gatsby-remark-prismjs": "^3.5.15",
+    "gatsby-source-filesystem": "^2.3.31",
+    "gatsby-transformer-remark": "^2.8.37",
+    "markdown": "^0.5.0",
+    "md-utils": "^1.2.0",
+    "prism-react-renderer": "^1.1.1",
+    "prismjs": "^1.21.0",
+    "react": "^16.13.1",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
