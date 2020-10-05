@@ -22,7 +22,6 @@ export default ({ data }) => {
           </div>
         </div>
       )}
-      <script src="prism.js" data-manual></script>
     </Layout>
   )
 }
