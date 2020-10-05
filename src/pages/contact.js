@@ -5,6 +5,7 @@ export default () => {
   return (
     <Layout>
       <h1>Contact</h1>
+      <p>Le Cong Phuong Nam</p>
     </Layout>
   )
 }
